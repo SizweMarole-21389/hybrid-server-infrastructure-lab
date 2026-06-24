@@ -7,7 +7,7 @@
 ![Hardening](https://img.shields.io/badge/Focus-Security%20Hardening-red?style=for-the-badge)
 
 > A fully screenshotted, step-by-step lab deploying and hardening a hybrid Windows Server
-> environment — Hyper-V virtualisation, Active Directory, Storage Spaces, FSRM quotas, data
+> environment - Hyper-V virtualisation, Active Directory, Storage Spaces, FSRM quotas, data
 > deduplication, and Windows Server Backup.
 
 ## Overview
