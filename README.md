@@ -1,5 +1,15 @@
 # Hybrid Server Infrastructure Deployment and Security Hardening
 
+![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Virtualisation-Hyper--V-0078D6?style=for-the-badge)
+![Active Directory](https://img.shields.io/badge/Identity-Active%20Directory-1BA0D7?style=for-the-badge)
+![Storage Spaces](https://img.shields.io/badge/Storage-Storage%20Spaces%20%2F%20Dedup-orange?style=for-the-badge)
+![Hardening](https://img.shields.io/badge/Focus-Security%20Hardening-red?style=for-the-badge)
+
+> A fully screenshotted, step-by-step lab deploying and hardening a hybrid Windows Server
+> environment — Hyper-V virtualisation, Active Directory, Storage Spaces, FSRM quotas, data
+> deduplication, and Windows Server Backup.
+
 ## Overview
 This hands-on lab project documents the full deployment and security hardening of a hybrid server environment using Microsoft Hyper-V, Active Directory, and Windows Server Storage Spaces. The project is conducted on a virtualised domain environment hosted at the Central University of Technology (CUT), using the domain CUTHealth.ac.za. All configurations are captured with supporting screenshots across two major modules.
 
